@@ -15,7 +15,8 @@
 
 <img src="https://rose-pine-images.vercel.app/Geany.png?theme=default" />
 
-1. Copy <kbd>rose-pine.conf</kbd> theme to your colorschemes.
+1. Download desired theme from the `src/` directory.
+2. Move <kbd>theme.conf</kbd> to your colorschemes folder.
 
    ```sh
    # Linux/macOS
